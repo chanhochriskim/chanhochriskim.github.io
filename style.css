@@ -21,10 +21,14 @@
 }
 
 .main {
-  margin-top: 100px;
+  margin-top: 40px;
 }
 
-.fa-brands {
+.main fa-brands {
   font-size: 36pt;
   color: blue;
+}
+
+.main p {
+  
 }
