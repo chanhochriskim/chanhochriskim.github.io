@@ -24,11 +24,16 @@
   margin-top: 40px;
 }
 
-.main fa-brands {
+fa-brands {
   font-size: 36pt;
   color: blue;
 }
 
-.main p {
-  
+.main a {
+  float: left;
+  display: block;
+  color: #0000FF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
