@@ -21,8 +21,19 @@
 }
 
 .main {
-  margin-top: 60px;
+  margin-top: 90px;
 }
+
+.main a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
 
 .fa-brands {
   font-size: 18pt;
