@@ -1,3 +1,5 @@
+
+/* Main Session */
 .navbar {
   overflow: hidden;
   background-color: #333;
@@ -32,3 +34,8 @@
   color: blue;
 }
 
+/* About Session */
+.container {
+  padding: 70px;
+  text-align: center;
+}
