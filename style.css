@@ -21,6 +21,13 @@
   background: #ddd;
   color: black;
 }
+
+.intro {
+  margin-top: 200px;
+  padding: 50px;
+  text-align: center;
+}
+
 .intro h1 {
   font-size: 18px;
 }
