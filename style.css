@@ -21,6 +21,9 @@
   background: #ddd;
   color: black;
 }
+.intro h1 {
+  font-size: 18px;
+}
 
 .main {
   margin-top: 240px;
